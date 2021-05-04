@@ -1,5 +1,6 @@
 {
     "name": "U1 - Mostrar número 0 - Carolina Ochoa",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
